@@ -1,0 +1,12 @@
+C:\Users\Pichau\Desktop\Financeiro_2023\Helpers\bin\Debug\net7.0\Helpers.deps.json
+C:\Users\Pichau\Desktop\Financeiro_2023\Helpers\bin\Debug\net7.0\Helpers.dll
+C:\Users\Pichau\Desktop\Financeiro_2023\Helpers\bin\Debug\net7.0\Helpers.pdb
+C:\Users\Pichau\Desktop\Financeiro_2023\Helpers\obj\Debug\net7.0\Helpers.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\Financeiro_2023\Helpers\obj\Debug\net7.0\Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Financeiro_2023\Helpers\obj\Debug\net7.0\Helpers.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Financeiro_2023\Helpers\obj\Debug\net7.0\Helpers.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Financeiro_2023\Helpers\obj\Debug\net7.0\Helpers.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Financeiro_2023\Helpers\obj\Debug\net7.0\Helpers.dll
+C:\Users\Pichau\Desktop\Financeiro_2023\Helpers\obj\Debug\net7.0\refint\Helpers.dll
+C:\Users\Pichau\Desktop\Financeiro_2023\Helpers\obj\Debug\net7.0\Helpers.pdb
+C:\Users\Pichau\Desktop\Financeiro_2023\Helpers\obj\Debug\net7.0\ref\Helpers.dll
